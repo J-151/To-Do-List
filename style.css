@@ -301,6 +301,10 @@ form button {
     margin: 0 5px;
 }
 
+.fas.fa-edit, fas.fa-trash {
+    pointer-events: none;
+}
+
 .todo-item {
     padding: 0rem 0.5rem;
 }
