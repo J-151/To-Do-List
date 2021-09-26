@@ -19,14 +19,24 @@
 </head>
 
 <body>
+    
     <div id = "header">
+        <div id="weather">
+            <div class="icon">---</div>
+            <div class="temp">-°C</div>
+            <div class="summary">----</div>
+            <div class="location"></div>
+            <script src="JS/weather.js"></script>
+        </div>
         <div class="flexrow-container">
             <div class="standard-theme theme-selector"></div>
             <div class="light-theme theme-selector"></div>
             <div class="darker-theme theme-selector"></div>
         </div>
+        
         <h1 id="title">  TO-DO:<div id="border"></div></h1>
     </div>
+    
 
   <div id="form">
         <form>
@@ -35,7 +45,6 @@
         </form>
     </div>
 
-    
     <div>
         <p><span id="datetime"></span></p>
         <script src="JS/time.js"></script>
