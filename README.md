@@ -39,3 +39,8 @@ To run the site on your local machine
 4. Alternatively you can click on the following [Site Link](https://j-151.github.io/To-Do-List/) to view.
 
 ## Screenshots
+
+![TO-DO LIST - Google Chrome 9_27_2021 12_53_21 PM](https://user-images.githubusercontent.com/71957607/134863299-98a31614-a016-48ea-b23d-e63a87575f55.png)
+![TO-DO LIST - Google Chrome 9_27_2021 12_53_53 PM](https://user-images.githubusercontent.com/71957607/134863313-8c4994c4-92fa-4e2e-b08d-c1228a4c059f.png)
+![TO-DO LIST - Google Chrome 9_27_2021 12_55_50 PM](https://user-images.githubusercontent.com/71957607/134863284-bbfabf74-dcfd-4eef-9e24-07a7408e9028.png)
+
