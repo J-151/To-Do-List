@@ -3,7 +3,7 @@
 ## About
 A To-Do List Webpage with Weather Display.
 
-It is a single page application(SPA) to manage finances. The main objective of this application is to serve as a learning tool and to get into the JavaScript programming language, learn to manage the DOM and its attributes.
+It is a single page application(SPA) to manage tasks. The main objective of this application is to serve as a learning tool and to get into the JavaScript programming language, learn to manage the DOM and its attributes.
  
 ## Table Of Content
 - [Features](#features)
